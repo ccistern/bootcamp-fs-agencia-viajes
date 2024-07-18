@@ -10,3 +10,13 @@ nav{
 footer{
     background-color:#0dc9f0;
 }
+
+.card{ background-color: #0dc9f0;
+    width:13rem;
+    height:20rem
+
+} 
+
+.fondo{
+    background-color: #0dc9f0;
+}
