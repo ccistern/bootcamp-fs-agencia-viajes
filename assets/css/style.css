@@ -3,9 +3,7 @@ body{
     color: white;
 }
 
-nav{
-    background-color: #0dc9f0;
-}
+
 
 footer{
     background-color:#0dc9f0;
@@ -19,4 +17,8 @@ footer{
 
 .fondo{
     background-color: #0dc9f0;
+}
+
+.img_nav{
+width:3rem;
 }
