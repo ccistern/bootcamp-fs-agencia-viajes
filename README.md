@@ -1,2 +1,2 @@
-# Bootcamp Full Stack JS Ejercicio Agencia Viajes
+# Bootcamp Full Stack JS
 Landing Page Agencia de Viajes
